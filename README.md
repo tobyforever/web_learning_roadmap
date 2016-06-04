@@ -21,7 +21,7 @@ markdown的语法，如何在github中提问和回答问题。
 JS入门教材推荐：[《JavaScript面向对象编程指南》](https://read.douban.com/ebook/12338365/?dcs=subject-rec&dcm=douban&dct=3332698)
 推荐理由：
 Packet出版社出的书一般写的比较生动，**面向零基础的读者**，内容又比较有深度。
-还有阮一峰对这本书的学习笔记(http://t.cn/zWhKPzw, http://t.cn/hDczH, http://t.cn/hdDwyK)
+还有阮一峰对这本书的学习笔记<http://t.cn/zWhKPzw>, <http://t.cn/hDczH>, <http://t.cn/hdDwyK>
 
 ##四、CSS
 有了功能，可是长得不好看卖不出去啊？要做的好看得靠CSS。
