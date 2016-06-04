@@ -13,7 +13,7 @@
 
 ##  要装的开发工具
 1. webstorm 新手容易犯错，还是选一个比较好的工具来提高效率，花时间来理解功能流程，不要把时间浪费在修改低级打字错误、配置编辑器上。
-2. sourcetree（mac下的git GUI）。mac自带git，git-flow
+2. sourcetree（mac下的git GUI）。mac自带git，git-flow，linux下需要自己安装。
 3. nodejs。我目前是用NVM安装node 6.2.0版本。node要装的全局模块后面涉及到再讲。
 4. 网易有道云笔记之类的笔记工具。不过mac下的网易云笔记bug略多。。。
 5. charles之类的调试工具用到时再说，暂且略过。
