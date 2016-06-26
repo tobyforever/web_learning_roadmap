@@ -49,8 +49,6 @@ git pull
 
 ##Github的使用
 
-在github中创建新的项目仓库（repository，简称repo）[视频录像](http://o91uvv1wq.bkt.clouddn.com/1_github_create_new_repo.gif)
-
 fork 把别人的仓库复制一份变成为自己的仓库，方便修改。
 
 watch 关注。关注的项目可以在“我的关注列表”里看到，不过不代表这是个好项目。
@@ -58,16 +56,3 @@ watch 关注。关注的项目可以在“我的关注列表”里看到，不�
 star 好评。喜欢这个项目？点个赞吧亲。赞过的项目会出现在“我赞过的项目列表”里
 
 gist 收集代码？生成网页？TODO
-
-##Gitbooks的使用
-Gitbooks是开源编辑出版工具流。
-
-Inline Comments读者直接高亮后给出评语
-
-生成ePub在iOS的ibooks里直接浏览
-
-集成Disqus评论
-
-###附录（参考资料）：
-[Pro Git中文版免费电子书](https://www.git-scm.com/book/zh/v2)
-
