@@ -32,8 +32,9 @@
    * 代码怎么写？
        1. 简单文字出现一个代码框。使用三个~~~把内容包起来 。（不是单引号而是左上角的ESC下面~中的）
 
-       ~~~
-       var a='this is a code block';
+       ~~~javascript
+       var a='this is a code block with javascript syntax highlighting';
+       var b='这是一个带有js语法高亮的代码块';
        ~~~
        2. 大片文字需要实现代码框。使用或四个空格。
 
