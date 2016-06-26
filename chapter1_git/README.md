@@ -49,6 +49,22 @@ git pull
 
 ##Github的使用
 
+在github中创建新的项目仓库（repository，简称repo）[视频录像](http://o91uvv1wq.bkt.clouddn.com/1_github_create_new_repo.gif)
+
+第一次提交项目内容到远程仓库：
+
+    mkdir myrepo1
+    cd myrepo1
+    用文本编辑器在文件夹内新建一个README.md文件，内容输入项目的说明
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin 仓库地址
+    git push -u origin master
+
+完成后，在github上项目页面会看到README.md的内容。
+
+
 fork 把别人的仓库复制一份变成为自己的仓库，方便修改。
 
 watch 关注。关注的项目可以在“我的关注列表”里看到，不过不代表这是个好项目。
